@@ -163,13 +163,13 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "image_2023-03-21_220213832.png",
                     "text_color": "#192e6c",
                     "text_shadow": "#b20032"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
+                    "image": "image_2023-03-21_220156274",
                     "first_frame": "wallpaper/first_frame.jpeg",
                     "text_color": "#192e6c",
                     "text_shadow": "#b20032"
