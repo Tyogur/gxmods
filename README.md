@@ -1,25 +1,25 @@
-# What are Opera GX Mods?
+# MY MOD
 
 ![GXMods](images/gxmods.png)
 
-GX Mods are a collection of customizations that allow users to create unique browsing experiences within Opera GX. With GX Mods, users can modify the browser's appearance, sounds, music, theme, wallpaper and even web content using web modding and shaders.
+basically i was bored in english class and i didnt want to do the work so i did this instead
 
-Users can install multiple mods and choose which elements to enable, giving them full control over the desired final effect.
+theres probably no one reading this but if you are thats cool
 
 
-## What can be done with mods?
+## why did i make it
 
-With mod customization, authors have complete control over what is included and how deep the modifications go. Mods can range in modifications from small keyboard sound packs to *Mega Mods* that incorporate all possible changes.
+I was bored
 
-The following areas provide ample opportunities to unleash creativity:
+## what do i have in it
 
-1. Background music - dynamic music that fits browsing
-2. Keyboard sounds - mechanical keyboard, typewriter, or sci-fi terminal sounds
-3. Browser sounds - opening and closing tabs, clicking, flipping switches, etc.
-4. Wallpaper - light and dark versions (static and animated)
-5. Theme - color theme for light and dark mode
-6. Web modding - tuning web pages to create unique appearances
-7. Shaders - applying visual effects to the whole screen while browsing.
+1. Background music - none yet bc one class is only 40 mins long
+2. Keyboard sounds - none bc im not smart enough
+3. Browser sounds - none yet
+4. Wallpaper - yes
+5. Theme - i think but im not sure
+6. Web modding - i dont even know wtf web modding does
+7. Shaders - no bc i cant draw for shit
 
 ## How to load sample mods?
 
@@ -35,14 +35,17 @@ As a quick start you can try some of the [sample mods](mods) provided.
 [Documentation](documentation/mods.md) and [guildelines](documentation/guidelines.md).
 
 ## How to build and share mod?
-
-1. Open extensions view (opera:extensions)
-2. Enable Developer mode in top right corner
-3. Click Pack extension and point to directory with manifest.json
-
-This will produce .CRX file that you can share with friends. Drag and drop it into Opera GX to install that mod.
+1. be bored in school
+2. get work assigned to you on your computer
+3. dont do the work
+4. mess around with random shit
+5. Open extensions view (opera:extensions)
+6. Enable Developer mode in top right corner
+7. Click Pack extension and point to directory with manifest.json
+8. This will produce a .CRX file that you can share with friends if you have any
+9. Drag and drop it into Opera GX to install that mod.
 
 ## Will there be a store?
 
-Yes.
+yes but for the sake of people i hope mine isnt on it
 
