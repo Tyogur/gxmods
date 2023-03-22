@@ -38,10 +38,6 @@ coder: me
 browser: opera
 template: opera
 everything else: me
-                                                              
-
-                       
-
 
  _____ _       ___ ___ 
 |   __| |_ _ _|  _|  _|
@@ -49,5 +45,5 @@ everything else: me
 |_____|_| |___|_| |_|  
 ...............................................................................
                        
-OTHER STUFF GOES HERE
+opera is cool thx to whoever made this
 
