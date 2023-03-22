@@ -23,16 +23,11 @@ I was bored
 
 ## How to load sample mods?
 
-As a quick start you can try some of the [sample mods](mods) provided.
-
-1. Open Extensions view (opera:extensions)
-2. Enable Developer mode in top right corner
-3. Click Load unpacked and point to directory with manifest.json
-4. Loaded mod will shown in Mods view (opera:mods)
+dont mine is better just use this one
 
 ## How to create mods?
 
-[Documentation](documentation/mods.md) and [guildelines](documentation/guidelines.md).
+its not so hard idk what i did tho
 
 ## How to build and share mod?
 1. be bored in school
